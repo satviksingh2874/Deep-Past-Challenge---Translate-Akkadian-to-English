@@ -34,7 +34,6 @@ We employed a **hybrid approach** combining **fine-tuning** and **Retrieval-Augm
    - **Data Scraping**: Extracted and organized raw data (see [`scraping_data.ipynb`](scraping_data.ipynb) and [`AICC_Scraping.ipynb`](AICC_Scraping.ipynb)).
    - **POS Tagging**: Part-of-speech tagging for better tokenization (see [`POS_Tagging.ipynb`](POS_Tagging.ipynb)).
    - **Model Training**: Fine-tuned the model with custom scripts (see [`rag_inference_plus_training_pipeline.ipynb`](rag_inference_plus_training_pipeline.ipynb)).
-   - **Evaluation**: Validated translations using BLEU, TER, and human evaluation (see [`Research_pipeline_gemini.ipynb`](Research_pipeline_gemini.ipynb)).
 
 ---
 
